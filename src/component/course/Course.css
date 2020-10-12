@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+}
+.product{
+    
+    width: 70%;
+
+    
+}
+.box{
+    width: 50%;
+    border: 1px solid gray;
+    margin-left: 30%;
+    
+}
